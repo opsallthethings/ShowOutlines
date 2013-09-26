@@ -29,6 +29,9 @@ Main Topic
     * Background
     * Specific areas of interest (Puppet, General Breadth)
   * *Steve*
+    * Current Employer and role
+    * Background
+    * Specific areas of interest (Desired State Configuration, PowerShell, Windows Server)
 * *Chris* Vision for the podcast
   * Not just new and bleeding edge
   * Things that matter to daily life
