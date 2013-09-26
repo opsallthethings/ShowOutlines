@@ -13,9 +13,8 @@ Introduction
 
 News
 ----
-- *YourNameHere* Story1 <http://linktostory.here>
-- *YourNameHere* Story2 <http://linktostory.here>
-- *YourNameHere* Story3 <http://linktostory.here>
+*Steve* As the show develops, we'll be covering timely and timeless news that we've found interesting or helpful,
+today though, we'll get right to introducing ourselves and this podcast.
 
 Main Topic
 ----------
