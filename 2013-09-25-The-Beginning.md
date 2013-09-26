@@ -20,14 +20,23 @@ News
 Main Topic
 ----------
 
-*Chris* Begining the podcast
+*Chris* Beginning the podcast
 
 ### Talking points
-* *Chris* Goals
-  * 
-* *YourNameHere* Point 2
-* *YourNameHere* Point 3
-
+* About us
+  * *Chris*
+    * Current Employer and role
+    * Background
+    * Specific areas of interest (Puppet, General Breadth)
+  * *Steve*
+* *Chris* Vision for the podcast
+  * Not just new and bleeding edge
+  * Things that matter to daily life
+  * A focus on avoiding bikes shedding
+* *Chris* What is Ops?
+  * Wasnt really able to find a good definition
+  * Not just sysadmins
+  * discuss network, database, crossover roles like QA and release eng
 
 Closing
 -------
