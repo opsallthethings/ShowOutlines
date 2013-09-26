@@ -23,20 +23,24 @@ Main Topic
 *Chris* Beginning the podcast
 
 ### Talking points
-* About us
-  * *Chris*
-    * Current Employer and role
-    * Background
-    * Specific areas of interest (Puppet, General Breadth)
-  * *Steve*
-    * Current Employer and role
-    * Background
-    * Specific areas of interest (Desired State Configuration, PowerShell, Windows Server)
-* *Chris* Vision for the podcast
+#### About us
+* *Chris*
+  * Current Employer and role   
+  * Background
+  * Specific areas of interest (Puppet, General Breadth)
+* *Steve*
+  * Current Employer and role
+  * Background
+  * Specific areas of interest (Desired State Configuration, PowerShell, Windows Server)
+
+#### Vision for the podcast
+* *Chris*
   * Not just new and bleeding edge
   * Things that matter to daily life
   * A focus on avoiding bikes shedding
-* *Chris* What is Ops?
+
+#### What is Ops?
+* *Chris*
   * Wasnt really able to find a good definition
   * Not just sysadmins
   * discuss network, database, crossover roles like QA and release eng
