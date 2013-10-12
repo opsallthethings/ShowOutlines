@@ -13,19 +13,27 @@ Introduction
 
 News
 ----
-- *YourNameHere* Story1 <http://linktostory.here>
+- *Chris* Launch of puppetbestpractices.com (yes this is self serving) <http://www.puppetbestpractices.com>
 - *YourNameHere* Story2 <http://linktostory.here>
 - *YourNameHere* Story3 <http://linktostory.here>
 
 Main Topic
 ----------
 
+(*Steve* Introduces the topic)
+
 Perceptions of Operations - Cost Center or Value Add
 
 ### Talking points
-* *YourNameHere* Point 1
-* *YourNameHere* Point 2
-* *YourNameHere* Point 3
+* *Chris* Means of production
+  * Idea here really being that the company doesnt function without IT
+  * Discussion about email, auth, connectivity and basic infra
+  * Business inteligence and providing useful services to users
+    * Example: Chris' Dad and getting data from databases for business use
+* *Chris* Developer productivity
+  * help devs find innovative solutions
+  * keep them writing code and get services ready for them to play with
+  * suggest ways to keep them from needing to write code because something like an LB will handle it
 
 
 Closing
