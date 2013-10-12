@@ -35,6 +35,11 @@ Perceptions of Operations - Cost Center or Value Add
   * keep them writing code and get services ready for them to play with
   * suggest ways to keep them from needing to write code because something like an LB will handle it
 
+Mordac preventer of information systems
+End user productivity
+Fake business value aka filtering
+The it crowd
+
 
 Closing
 -------
