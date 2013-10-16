@@ -30,6 +30,11 @@ Perceptions of Operations - Cost Center or Value Add
   * Discussion about email, auth, connectivity and basic infra
   * Business inteligence and providing useful services to users
     * Example: Chris' Dad and getting data from databases for business use
+* *Steve* Many businesses do not realize how integral IT is until there is a failure
+	* Even then, there is often change in perception of IT
+	* Perceived as technical janitors, ignored and devalued
+	* In this environment, there's not much upside for improving services, but there is a tremendous downside in having services go down
+	* Stability is more important than innovation
 * *Chris* Developer productivity
   * help devs find innovative solutions
   * keep them writing code and get services ready for them to play with
