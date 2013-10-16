@@ -14,7 +14,7 @@ Introduction
 News
 ----
 - *Chris* Launch of puppetbestpractices.com (yes this is self serving) <http://www.puppetbestpractices.com>
-- *YourNameHere* Story2 <http://linktostory.here>
+- *Steve* Launch of Opserver - Stack Exchange's status dashboard <https://github.com/opserver/Opserver>
 - *YourNameHere* Story3 <http://linktostory.here>
 
 Main Topic
