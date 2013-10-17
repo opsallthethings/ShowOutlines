@@ -1,4 +1,4 @@
-Show Notes - # - 10/11/2013
+Show Notes - # - 10/16/2013
 ===========================
 
 Introduction
@@ -7,7 +7,7 @@ Introduction
 
 *Chris* I'm Chris Webber
 
-*Steve* and I'm Steve Murawski and this show is being recorded on October 11th, 2013.
+*Steve* and I'm Steve Murawski and this show is being recorded on October 16th, 2013.
 
 (Quick chat about current status)
 
@@ -15,7 +15,7 @@ News
 ----
 - *Chris* Launch of puppetbestpractices.com (yes this is self serving) <http://www.puppetbestpractices.com>
 - *Steve* Launch of Opserver - Stack Exchange's status dashboard <https://github.com/opserver/Opserver>
-- *YourNameHere* Story3 <http://linktostory.here>
+- *Chris* DevOps in your job title is doing you harm <http://blog.petecheslock.com/2013/05/03/devops-in-your-job-title-is-doing-you-harm/>
 
 Main Topic
 ----------
