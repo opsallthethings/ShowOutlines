@@ -16,6 +16,7 @@ News
 - *Chris* Launch of puppetbestpractices.com (yes this is self serving) <http://www.puppetbestpractices.com>
 - *Steve* Launch of Opserver - Stack Exchange's status dashboard <https://github.com/opserver/Opserver>
 - *Chris* DevOps in your job title is doing you harm <http://blog.petecheslock.com/2013/05/03/devops-in-your-job-title-is-doing-you-harm/>
+( Link to dave mangot's article)
 
 Main Topic
 ----------
