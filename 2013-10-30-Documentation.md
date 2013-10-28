@@ -14,7 +14,9 @@ Introduction
 News
 ----
 - *Chris* Etsy's Morgue <https://github.com/etsy/morgue>
-- *YourNameHere* Story2 <http://linktostory.here>
+- *Chris* CFPs 
+  - So Cal Linux Expo
+  - Cascadia IT
 - *YourNameHere* Story3 <http://linktostory.here>
 
 Main Topic
