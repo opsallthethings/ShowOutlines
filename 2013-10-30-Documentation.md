@@ -18,7 +18,7 @@ News
 - *Chris* CFPs 
   - So Cal Linux Expo
   - Cascadia IT
-- *Steve* 
+- *Steve* Six Weeks to Provision a VM?!? #ChangeManagementFail <http://kief.com/change-management-fail.html>
 
 Main Topic
 ----------
@@ -32,8 +32,10 @@ Documentation
   * Architectural Docs
   * System Docs
   * Process Docs
+  * Comments (code and script) (why vs. how)
 * Documetation Lag and Drift
 * Infrastructure as Code
+  * With Revision Control
 * Monitoring and Testing as Documentation
 * "Thought process" docs
 * Passwords and Secrets
