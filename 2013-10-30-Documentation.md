@@ -14,10 +14,11 @@ Introduction
 News
 ----
 - *Chris* Etsy's Morgue <https://github.com/etsy/morgue>
+- *Steve* Windows Management Framework 4 Is Available <http://blogs.msdn.com/b/powershell/archive/2013/10/25/windows-management-framework-4-0-is-now-available.aspx>
 - *Chris* CFPs 
   - So Cal Linux Expo
   - Cascadia IT
-- *YourNameHere* Story3 <http://linktostory.here>
+- *Steve* 
 
 Main Topic
 ----------
