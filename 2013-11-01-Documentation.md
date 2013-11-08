@@ -7,7 +7,7 @@ Introduction
 
 *Chris* I'm Chris Webber
 
-*Steve* and I'm Steve Murawski and this show is being recorded on November 1st, 2013.
+*Steve* and I'm Steve Murawski and this show is being recorded on November 8th, 2013.
 
 (Quick chat about current status)
 
