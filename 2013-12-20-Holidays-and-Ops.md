@@ -15,6 +15,8 @@ News
 ----
 - *Chris* SysAdvent
 - *Chris* Hangops
+- *Steve* [Winter Scripting Games](http://powershell.org/wp/2013/12/16/2014-winter-scripting-games-schedule/)
+
 
 Main Topic
 ----------
@@ -24,7 +26,7 @@ Holidays
 ### Talking points
 * Define the problem set
 * On Call
-  * Over the holidays
+  * Over the holidays (steve - how many levels deep do you check for availability?)
   * the holiday party
 * Things we do to make life a bit smoother
   * code freezes
