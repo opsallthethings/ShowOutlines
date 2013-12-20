@@ -1,4 +1,4 @@
-Show Notes - #004 Documentation - 12/20/2013
+Show Notes - #004 The Holidays and Ops - 12/20/2013
 ===========================
 
 Introduction
@@ -14,6 +14,7 @@ Introduction
 News
 ----
 - *Chris* SysAdvent
+- *Chris* Hangops
 
 Main Topic
 ----------
