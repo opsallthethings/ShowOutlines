@@ -1,0 +1,36 @@
+Show Notes - #005 Revision Control - 01/15/2014
+===========================
+
+Introduction
+------------
+*Chris* Welcome to Ops All The Things, your podcast for all things DevOps, SysAdmin and Operations. 
+
+*Chris* I'm Chris Webber
+
+*Steve* and I'm Steve Murawski and this show is being recorded on January 15th, 2014.
+
+(Quick chat about current status)
+
+News
+----
+
+
+Main Topic
+----------
+
+Revision Control and Source Code
+
+### Talking points
+* What is it?
+* Why does it matter to Ops?
+* Collaboration tool
+** Github
+* What should go in it?
+** puppet/chef/cfg mgmt
+** scripts
+** other stuff?
+* Secrets
+
+Closing
+-------
+Thanks for joining us for Ops All The Things.  If you have questions, comments, or other feedback, you can find us at <http://www.opsallthethings.com> or on twitter as @opsallthethings.
