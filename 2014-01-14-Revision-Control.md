@@ -24,11 +24,11 @@ Revision Control and Source Code
 * What is it?
 * Why does it matter to Ops?
 * Collaboration tool
-** Github
+  * Github
 * What should go in it?
-** puppet/chef/cfg mgmt
-** scripts
-** other stuff?
+  * puppet/chef/cfg mgmt
+  * scripts
+  * other stuff?
 * Secrets
 
 Not sure where this fits... but "Once you point and click your way through their GUI to create a server template, you can create identical instances to your heart’s content. But when you go back and make tweaks to your template, you don’t have a traceable, easily understood record of the change." [http://kief.com/infrastructure-as-code-versus-automation.html]
