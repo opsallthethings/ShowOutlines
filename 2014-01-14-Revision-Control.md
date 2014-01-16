@@ -14,6 +14,7 @@ Introduction
 News
 ----
 * Chris - http://community.redhat.com/blog/2014/01/red-hat-and-centos-join-forces/
+* Steve- Not really a news item, but I've recently been working with Pester for PowerShell testing [[https://github.com/pester/Pester]]
 * Chris - jq
 * Chris - So Cal Linux Expo coming up
 
@@ -25,12 +26,15 @@ Revision Control and Source Code
 ### Talking points
 * What is it?
 * Why does it matter to Ops?
+  * History
+  * Comfort in making changes
+  * Coordination with your team (or for the guy coming after you)
 * Collaboration tool
   * Github
 * What should go in it?
   * puppet/chef/cfg mgmt
   * scripts
-  * other stuff?
+  * other stuff? (Steve - If it's text or close to text, it goes in)
 * Secrets
 
 Not sure where this fits... but "Once you point and click your way through their GUI to create a server template, you can create identical instances to your heart’s content. But when you go back and make tweaks to your template, you don’t have a traceable, easily understood record of the change." [http://kief.com/infrastructure-as-code-versus-automation.html]
