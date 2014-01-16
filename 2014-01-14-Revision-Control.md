@@ -13,6 +13,7 @@ Introduction
 
 News
 ----
+* Chris - http://community.redhat.com/blog/2014/01/red-hat-and-centos-join-forces/
 * Chris - jq
 * Chris - So Cal Linux Expo coming up
 
