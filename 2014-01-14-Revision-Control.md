@@ -1,4 +1,4 @@
-Show Notes - #005 Revision Control - 01/15/2014
+Show Notes - #005 Revision Control - 01/16/2014
 ===========================
 
 Introduction
@@ -7,13 +7,14 @@ Introduction
 
 *Chris* I'm Chris Webber
 
-*Steve* and I'm Steve Murawski and this show is being recorded on January 15th, 2014.
+*Steve* and I'm Steve Murawski and this show is being recorded on January 16th, 2014.
 
 (Quick chat about current status)
 
 News
 ----
-
+* Chris - jq
+* Chris - So Cal Linux Expo coming up
 
 Main Topic
 ----------
