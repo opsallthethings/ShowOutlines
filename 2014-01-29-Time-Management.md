@@ -17,7 +17,7 @@ News
 ----
 * Chris - AppSec California
 * Chris - Guard
-* Steve - We are hiring - both for our SRE team as well as our internal IT team 
+* Steve - We are hiring - both for our [SRE team](http://careers.stackoverflow.com/jobs/47588/site-reliability-engineer-networking-stack-exchange?a=W2odVmcU&searchTerm=stack%20exchange) as well as our [internal IT team](http://careers.stackoverflow.com/jobs/47590/internal-support-engineer-stack-exchange?a=W2xBfQB2&searchTerm=stack%20exchange)
 
 Main Topic
 ----------
