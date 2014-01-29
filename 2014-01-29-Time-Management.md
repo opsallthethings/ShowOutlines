@@ -9,7 +9,7 @@ Introduction
 
 *Steve* and I'm Steve Murawski and this show is being recorded on January 29th, 2014.
 
-* Steve* Introduce Tom
+*Steve* Introduce Tom
 
 (Quick chat about current status)
 
@@ -24,6 +24,19 @@ Main Topic
 Time Managment
 
 ### Talking points
+* Thank Bryan Berry for suggesting the topic
+* Finding time for all the things
+  * From Bryan
+    * Family
+    * Firefighting 
+    * New features for users
+    * Developing ones skills
+    * Community
+* Tips and tricks for keeping track of it all
+* Discuss burnout and that helpless feeling
+* Technical Debt and 'Temporary' Things
+* Yak Shaving and Bike Shedding
+
 
 
 Closing
