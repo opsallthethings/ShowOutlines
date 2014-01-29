@@ -9,7 +9,7 @@ Introduction
 
 *Steve* and I'm Steve Murawski and this show is being recorded on January 29th, 2014.
 
-*Steve* Introduce Tom
+*Steve* Today we have our first guest, Tom Limoncelli.  Tom is a co-worker of mine at Stack Exchange,but more importantly he's the author of Time Management For Systems Administrators and a frequent presenter on Time Management techniques. Welcome to the show Tom!
 
 (Quick chat about current status)
 
@@ -17,6 +17,7 @@ News
 ----
 * Chris - AppSec California
 * Chris - Guard
+* Steve - We are hiring - both for our SRE team as well as our internal IT team 
 
 Main Topic
 ----------
