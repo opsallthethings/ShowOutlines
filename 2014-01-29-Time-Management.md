@@ -37,6 +37,7 @@ Time Managment
   * How do we track open commitments?
   * How do we make time for project work, yet deal with interruptions?
 * Discuss burnout and that helpless feeling
+  * http://sharinglunch.tumblr.com/post/73777068941/devops-h-h-h-h-h-hopsdev
 * Technical Debt and 'Temporary' Things
   * This just came up on a mailing list I'm on.  Several consultants noted that when they contract out most of their scripts generated as part of their work product were treated as "throw-away".
 * Yak Shaving and Bike Shedding
