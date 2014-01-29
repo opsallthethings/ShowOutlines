@@ -34,8 +34,11 @@ Time Managment
     * Developing ones skills
     * Community
 * Tips and tricks for keeping track of it all
+  * How do we track open commitments?
+  * How do we make time for project work, yet deal with interruptions?
 * Discuss burnout and that helpless feeling
 * Technical Debt and 'Temporary' Things
+  * This just came up on a mailing list I'm on.  Several consultants noted that when they contract out most of their scripts generated as part of their work product were treated as "throw-away".
 * Yak Shaving and Bike Shedding
 
 
