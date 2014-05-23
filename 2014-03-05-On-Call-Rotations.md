@@ -1,4 +1,4 @@
-Show Notes - #007 On Call - 03/05/2014
+Show Notes - #007 Catching Up - 05/22/2014
 ===========================
 
 Introduction
@@ -7,32 +7,29 @@ Introduction
 
 *Chris* I'm Chris Webber
 
-*Steve* and I'm Steve Murawski and this show is being recorded on March 5th, 2014.
+*Steve* and I'm Steve Murawski and this show is being recorded on May 22nd, 2014.
 
-(Quick chat about current status)
+*Chris* This show is brought to you by Chef, the automation platform for the new IT. If you are looking for to increase the speed at which you are able to provision new environments and make changes to current environment,s it is time to take a look at Chef. 
 
-News
-----
-* Chris - So Cal Linux Expo Follow up
-* Steve - We are hiring - both for our [SRE team](http://careers.stackoverflow.com/jobs/47588/site-reliability-engineer-networking-stack-exchange?a=W2odVmcU&searchTerm=stack%20exchange) as well as our [internal IT team](http://careers.stackoverflow.com/jobs/47590/internal-support-engineer-stack-exchange?a=W2xBfQB2&searchTerm=stack%20exchange)
+*Chris* Normally we would dive into news and a topic, but today we are just going to do a catch up session with the things Steve and I have been up to since it has been so long.
 
 Main Topic
 ----------
 
-On Call
+### Chris
 
-### Talking points
-* What does it mean to be on call?
-* NOC vs On Call
-* Perma-on-call status
-* Rotation schemes
-  * By week
-  * Follows the sun (fastly is a good example)
-  * By Day (github)
-* Trading times
-* Being "The Guy" or "The Person"
-* Documentation for when stuff goes wrong
-* Devs and Business and how they get involved and their roles.
+* New Job
+* The fun that has been diving into chef
+* SCALE
+ * Neat talks on Friday
+ * Hallway Track
+* ISSA LA
+* World of dev type stuff
+
+### Steve
+
+* Conferences
+(yeah, i am sure that you have lots more to fill in. -- cwebber)
 
 Closing
 -------
