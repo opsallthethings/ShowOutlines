@@ -9,7 +9,7 @@ Introduction
 
 *Steve* and I'm Steve Murawski and this show is being recorded on May 22nd, 2014.
 
-*Chris* This show is brought to you by Chef, the automation platform for the new IT. If you are looking for to increase the speed at which you are able to provision new environments and make changes to current environment,s it is time to take a look at Chef. 
+*Chris* This show is brought to you by Chef, the automation platform for the new IT. If you are looking for to increase the speed at which you are able to provision new environments and make changes to current environments, it is time to take a look at Chef. 
 
 *Chris* Normally we would dive into news and a topic, but today we are just going to do a catch up session with the things Steve and I have been up to since it has been so long.
 
