@@ -7,7 +7,7 @@ Introduction
 
 *Chris* I'm Chris Webber
 
-*Steve* and I'm Steve Murawski and this show is being recorded on May 22nd, 2014.
+*Steve* and I'm Steve Murawski and this show is being recorded on May 23rd, 2014.
 
 *Chris* This show is brought to you by Chef, the automation platform for the new IT. If you are looking for to increase the speed at which you are able to provision new environments and make changes to current environments, it is time to take a look at Chef. 
 
