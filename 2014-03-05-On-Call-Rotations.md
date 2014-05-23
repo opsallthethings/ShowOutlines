@@ -1,4 +1,4 @@
-Show Notes - #007 Catching Up - 05/22/2014
+Show Notes - #007 Catching Up - 05/23/2014
 ===========================
 
 Introduction
