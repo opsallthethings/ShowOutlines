@@ -43,3 +43,20 @@ Main Topic
 Closing
 -------
 Thanks for joining us for Ops All The Things.  If you have questions, comments, or other feedback, you can find us at <http://www.opsallthethings.com> or on twitter as @opsallthethings.
+
+Things for Show Notes
+---------------------
+
+* Link to shipshow podcast around incident response
+* ICS
+* CERT
+* FEMA
+* DSC
+* All the podcasts!
+
+Future Episodes
+---------------
+* ICS/incident response
+* Security + Config Mgmt
+* Hiring, Firing and teh Peoples
+* Dev and SysAdmin
