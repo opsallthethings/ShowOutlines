@@ -29,7 +29,16 @@ Main Topic
 ### Steve
 
 * Conferences
-(yeah, i am sure that you have lots more to fill in. -- cwebber)
+  * Cascadia
+  * ForenSecure
+  * PowerShell Summit
+  * TechEd
+* Podcasts
+  * Arrested Devops
+  * The Ship Show
+  * The HelpDesk Podcast
+* Failover/Data Center Move
+* Ivory Tower DevOps and the Path to the Data Center Abstraction Layer
 
 Closing
 -------
