@@ -1,4 +1,4 @@
-Show Notes - #008 HA and DR All the Things  - 05/28/2014
+Show Notes - #008 HA and DR All the Things  - 06/19/2014
 ===========================
 
 Introduction
@@ -7,14 +7,13 @@ Introduction
 
 *Chris* I'm Chris Webber
 
-*Steve* and I'm Steve Murawski and this show is being recorded on May 23rd, 2014.
-
-*Chris* This show is brought to you by Chef, the automation platform for the new IT. If you are looking for to increase the speed at which you are able to provision new environments and make changes to current environments, it is time to take a look at Chef. 
+*Steve* and I'm Steve Murawski and this show is being recorded on June 19th, 2014.
 
 News
 ----
 
 *Chris* [Joyent Outage](http://www.joyent.com/blog/postmortem-for-outage-of-us-east-1-may-27-2014)
+*Chris* [Supermarket Launch](https://supermarket.getchef.com)
 
 
 Main Topic
@@ -29,8 +28,11 @@ HA and DR All The Things
 * What even is a cluster?
 * Acronym Soup
   * SLA
-  * MTBF
-  * MTTR
+  * MTBF (Mean time between failure)
+  * MTTR (Mean time to repair/recovery)
+  * MTTD (mean time to discovery)
+  * RPO (recovery point objective)
+  * RTO (recovery time objective)
 * Disaster Recovery
   * Planning
   * Exercises
