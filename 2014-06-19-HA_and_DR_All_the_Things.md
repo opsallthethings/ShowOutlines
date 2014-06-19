@@ -9,6 +9,8 @@ Introduction
 
 *Steve* and I'm Steve Murawski and this show is being recorded on June 19th, 2014.
 
+*Chris* And this podcast is sponsored by Chef.
+
 News
 ----
 
