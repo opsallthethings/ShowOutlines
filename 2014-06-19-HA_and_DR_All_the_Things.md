@@ -12,8 +12,8 @@ Introduction
 News
 ----
 
-*Chris* [Joyent Outage](http://www.joyent.com/blog/postmortem-for-outage-of-us-east-1-may-27-2014)
-*Chris* [Supermarket Launch](https://supermarket.getchef.com)
+* *Chris* [Joyent Outage](http://www.joyent.com/blog/postmortem-for-outage-of-us-east-1-may-27-2014)
+* *Chris* [Supermarket Launch](https://supermarket.getchef.com)
 
 
 Main Topic
