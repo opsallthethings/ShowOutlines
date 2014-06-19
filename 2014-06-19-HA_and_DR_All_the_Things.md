@@ -26,6 +26,7 @@ HA and DR All The Things
 
 * Discuss what DR, HA and the kind of in between states are
   * Includes continuous availability
+  * Hot spare / warm spare / cold spare
 * Why are you doing backups?
   * and no, RAID is not a backup
 * What even is a cluster?
