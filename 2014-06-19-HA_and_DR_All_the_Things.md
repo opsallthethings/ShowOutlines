@@ -14,6 +14,7 @@ News
 
 * *Chris* [Joyent Outage](http://www.joyent.com/blog/postmortem-for-outage-of-us-east-1-may-27-2014)
 * *Chris* [Supermarket Launch](https://supermarket.getchef.com)
+* *Steve* [DSC Resource Kit Wave 4 is Live](http://blogs.msdn.com/b/powershell/archive/2014/06/06/dsc-resource-kit-wave-4-is-live.aspx)
 
 
 Main Topic
