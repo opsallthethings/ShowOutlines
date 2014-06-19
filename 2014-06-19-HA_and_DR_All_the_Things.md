@@ -32,7 +32,7 @@ HA and DR All The Things
 * What even is a cluster?
 * Acronym Soup
   * SLA
-  * MTBF (Mean time between failure)
+  * MTBF (Mean time between failure) (Etsy's talk)
   * MTTR (Mean time to repair/recovery)
   * MTTD (mean time to discovery)
   * RPO (recovery point objective)
@@ -49,6 +49,9 @@ HA and DR All The Things
 * Use the cloud to illustrate levels of redundancy
 * Discuss SPOFs and why they may or may not be bad
 
+NOTES:
+--------
+[Web Operations book](http://www.amazon.com/Web-Operations-Keeping-Data-Time/dp/1449377440)
 
 Closing
 -------
