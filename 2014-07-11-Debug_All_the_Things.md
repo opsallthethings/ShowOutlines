@@ -14,9 +14,11 @@ Introduction
 News
 ----
 
-* *Chris*
+* *Chris* [Supermarket is alive](https://supermarket.getchef.com)
+  * Survey
+  * Postmortem all the things
 * *Steve* [Atom, a new text editor, has a Windows build!](https://atom.io/)
-* *Steve*
+* *Steve* **You should tell us about that other news you have...**
 
 
 Main Topic
@@ -39,6 +41,8 @@ Debug All the Things
     * environment where you can try to replicate and troubleshoot
   * fix it once (then put regression tests in place)
   * preventative measures - TESTS!
+ * Talk tools maybe?
+   * What are your goto tools on windows? linux? Web apps?
 
 NOTES:
 --------
