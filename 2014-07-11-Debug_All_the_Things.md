@@ -16,6 +16,7 @@ News
 
 * *Chris*
 * *Steve* [Atom, a new text editor, has a Windows build!](https://atom.io/)
+* *Steve*
 
 
 Main Topic
@@ -32,6 +33,7 @@ Debug All the Things
   * Reflect
 * Notes from the field: Making sure you
   * have a starting place
+    * understand what your baseline (for performance/functionality/whatever) should be
     * Centralized logging
     * Monitoring for physical OS health and Application health and performance
     * environment where you can try to replicate and troubleshoot
