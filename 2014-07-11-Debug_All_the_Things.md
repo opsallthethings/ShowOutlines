@@ -52,7 +52,8 @@ Book - Debug It
 - Mark imbriaco postmortems
 - PAL
 - Supermarket Survey
-
+- Brendan Greg Books
+- 
 Closing
 -------
 Thanks for joining us for Ops All The Things.  If you have questions, comments, or other feedback, you can find us at <http://www.opsallthethings.com> or on twitter as @opsallthethings.
