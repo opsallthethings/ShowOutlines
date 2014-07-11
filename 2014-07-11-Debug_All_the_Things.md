@@ -15,7 +15,7 @@ News
 ----
 
 * *Chris*
-* *Steve* (Atom, a new text editor, has a Windows build!)[]
+* *Steve* [Atom, a new text editor, has a Windows build!](https://atom.io/)
 
 
 Main Topic
@@ -36,7 +36,7 @@ Debug All the Things
     * Monitoring for physical OS health and Application health and performance
     * environment where you can try to replicate and troubleshoot
   * fix it once (then put regression tests in place)
-  * 
+  *
 
 NOTES:
 --------
