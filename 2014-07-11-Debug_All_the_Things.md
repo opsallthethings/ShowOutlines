@@ -19,7 +19,7 @@ News
   * Postmortem all the things
 * *Steve* [Atom, a new text editor, has a Windows build!](https://atom.io/)
 * *Steve* [Want my previous job?](http://careers.stackoverflow.com/jobs/61859/site-reliability-engineer-windows-powershell-stack-exchange)
-* *Steve* **You should tell us about that other news you have...**
+* *Steve* By the time this airs, I'll be an employee of Chef! (I'm unemployed as of this recording)
 
 
 Main Topic
