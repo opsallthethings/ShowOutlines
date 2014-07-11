@@ -27,7 +27,7 @@ Debug All the Things
   * Historical
   * Current
 * Debugging should be a standardized process
-  * Reproduce the problem
+  * Reproduce the problem    
   * Diagnose the issue
   * Fix it
   * Reflect
