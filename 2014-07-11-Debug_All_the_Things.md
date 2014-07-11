@@ -18,6 +18,7 @@ News
   * Survey
   * Postmortem all the things
 * *Steve* [Atom, a new text editor, has a Windows build!](https://atom.io/)
+* *Steve* [Want my previous job?](http://careers.stackoverflow.com/jobs/61859/site-reliability-engineer-windows-powershell-stack-exchange)
 * *Steve* **You should tell us about that other news you have...**
 
 
@@ -29,7 +30,7 @@ Debug All the Things
   * Historical
   * Current
 * Debugging should be a standardized process
-  * Reproduce the problem    
+  * Reproduce the problem
   * Diagnose the issue
   * Fix it
   * Reflect
