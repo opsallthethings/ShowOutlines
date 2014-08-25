@@ -24,5 +24,12 @@ Development and the SysAdmin
 
 * Guess What?  You're a Developer!
   * Those scripts you were writing?  That's code.
-  * 
+  * We need to treat those scripts with the same care and concern that developers treat code
+  * Our infrastructure is as important as app code developers write
 * Now What?
+  * Source control (check out our previous show)
+  * Debugging skills (check out our previous show)
+  * Testing (unit/integration/acceptance)
+  * Refactoring
+  * Design Patterns
+  * 
