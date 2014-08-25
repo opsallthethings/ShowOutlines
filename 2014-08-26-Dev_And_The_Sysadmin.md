@@ -22,4 +22,7 @@ Main Topic
 ----------
 Development and the SysAdmin
 
-*
+* Guess What?  You're a Developer!
+  * Those scripts you were writing?  That's code.
+  * 
+* Now What?
