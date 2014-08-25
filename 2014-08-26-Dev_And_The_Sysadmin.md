@@ -1,4 +1,4 @@
-Show Notes - #009 Debug All the Things  - 07/11/2014
+Show Notes - #010 Development and the SysAdmin  - 08/26/2014
 ===========================
 
 Introduction
