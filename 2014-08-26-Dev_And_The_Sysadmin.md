@@ -13,8 +13,10 @@ Introduction
 
 News
 ----
-* *Steve* 
+* *Steve* The Chef Community Summits are coming up!  [Seattle](http://www.getchef.com/blog/event/chef-community-summit/) and [London](http://www.getchef.com/blog/event/chef-community-summit-london/)
 * *Chris*
+* *Steve* [Wave 6 of the DSC Resource Kits is out.](http://blogs.msdn.com/b/powershell/archive/2014/08/20/dsc-resource-kit-wave-6-is-here.aspx)
+* *Steve* 
 
 Main Topic
 ----------
