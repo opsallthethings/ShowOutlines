@@ -17,6 +17,7 @@ News
 * *Chris* And even cooler... 10% discount if you use the code OPSALLTHETHINGS
 * *Steve* [Wave 6 of the DSC Resource Kits is out.](http://blogs.msdn.com/b/powershell/archive/2014/08/20/dsc-resource-kit-wave-6-is-here.aspx)
 * *Steve* 
+* *Chris* PuppetConf is coming up: https://puppetconf2014.eventbrite.com/?discount=SPEAK-35
 
 Main Topic
 ----------
