@@ -26,6 +26,14 @@ Development and the SysAdmin
   * Those scripts you were writing?  That's code.
   * We need to treat those scripts with the same care and concern that developers treat code
   * Our infrastructure is as important as app code developers write
+* Why Should I Care?
+  * It's getting easier and easier to outsource specific applications (SaaS) and infrastructure (IaaS)
+  * Business is watching - PuppetLabs 2014 State of DevOps report / Gartner
+  * If our perceived value SysAdmins + Licensing + Hardware == Service Provider, then 
+  * We must show business value (check out our previous show)
+  * Providing as good/better options internally compared to public offerings
+  * Where we can't compete internally, make effective use of public offerings and help the business evaluate that position.
+  * If we can't offer the ability to compose those services and platforms, someone else will.. and at the end of the day, business needs to get things done.
 * Now What?
   * Source control (check out our previous show)
   * Debugging skills (check out our previous show)
