@@ -32,4 +32,4 @@ Development and the SysAdmin
   * Testing (unit/integration/acceptance)
   * Refactoring
   * Design Patterns
-  * 
+  * Pair programming
