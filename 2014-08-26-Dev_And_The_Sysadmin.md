@@ -14,7 +14,7 @@ Introduction
 News
 ----
 * *Steve* [The PowerShell Summit EU is at the end of September in Amsterdam](http://powershell.org/wp/community-events/summit/).The Chef Community Summits are coming up!  [Seattle](http://www.getchef.com/blog/event/chef-community-summit/) and [London](http://www.getchef.com/blog/event/chef-community-summit-london/)
-* *Chris*
+* *Chris* And even cooler... 10% discount if you use the code OPSALLTHETHINGS
 * *Steve* [Wave 6 of the DSC Resource Kits is out.](http://blogs.msdn.com/b/powershell/archive/2014/08/20/dsc-resource-kit-wave-6-is-here.aspx)
 * *Steve* 
 
