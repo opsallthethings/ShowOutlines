@@ -17,6 +17,7 @@ News
 ----
 * *Chris* - HangOps is back
 * *Chris* - SysAdvent is coming
+* *Steve* - WMF 5 has been rev'd again - and more resources 
 
 Main Topic
 ----------
