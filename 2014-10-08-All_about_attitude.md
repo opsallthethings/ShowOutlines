@@ -1,4 +1,4 @@
-Show Notes - #011 - All About Attitude - 09/10/2014
+Show Notes - #011 - All About Attitude - 10/08/2014
 ===========================
 
 Introduction
@@ -7,13 +7,16 @@ Introduction
 
 *Chris* I'm Chris Webber
 
-*Steve* and I'm Steve Murawski and this show is being recorded on September 10th, 2014
+*Steve* and I'm Steve Murawski and this show is being recorded on October 8th, 2014
 
 *Chris* And this podcast is sponsored by Chef.
+
+*Chris* Lets chat about what we have been up to... it has been a crazy few weeks.
 
 News
 ----
 * *Chris* - HangOps is back
+* *Chris* - SysAdvent is coming
 
 Main Topic
 ----------
