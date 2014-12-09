@@ -1,4 +1,4 @@
-Show Notes - #012 - Scripting vs Automation - 10/23/2014
+Show Notes - #012 - Scripting vs Automation - 12/09/2014
 ===========================
 
 Introduction
@@ -7,13 +7,13 @@ Introduction
 
 *Chris* I'm Chris Webber
 
-*Steve* and I'm Steve Murawski and this show is being recorded on October 23rd, 2014
+*Steve* and I'm Steve Murawski and this show is being recorded on December 09th, 2014
 
 *Chris* And this podcast is sponsored by Chef.
 
 News
 ----
-* *Steve* - Windows Server and Client Technical Previews are out and already being updated!
+* *Steve* - Windows Server and Client Technical Previews are out and already being updated!  Next updates coming in the new year...
 * *Steve* - Containers are coming to Windows Server!
 * *Chris* - 
 
