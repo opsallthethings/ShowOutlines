@@ -14,7 +14,8 @@ Introduction
 News
 ----
 * *Steve* - Windows Server and Client Technical Previews are out and already being updated!  Next updates coming in the new year...
-* *Steve* - Containers are coming to Windows Server!
+* *Steve* - Containers are coming to Windows Server!  The code for the Docker client for Windows has been merged already.
+* *Steve* - and .NET is being open-sourced!
 * *Chris* - 
 
 Main Topic
