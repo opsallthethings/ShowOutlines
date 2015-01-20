@@ -17,6 +17,7 @@ News
 *Chris* - So Cal Linux Expo
 *Steve* - Job Change or refocusing
 *Steve* - Test-Kitchen for Windows guests progressing... I can't wait!
+*Steve* - And Penflip
 
 Main Topic
 ----------
