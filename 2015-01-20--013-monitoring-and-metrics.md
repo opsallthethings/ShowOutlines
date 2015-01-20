@@ -1,4 +1,4 @@
-Show Notes - #012 - Scripting vs Automation - 12/09/2014
+Show Notes - #013 - Monitoring and Metrics (Alerting too!) - 12/09/2014
 ===========================
 
 Introduction
