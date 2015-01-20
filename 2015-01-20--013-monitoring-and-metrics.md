@@ -15,6 +15,8 @@ News
 ----
 *Chris* - Job Change
 *Chris* - So Cal Linux Expo
+*Steve* - Job Change or refocusing
+*Steve* - Test-Kitchen for Windows guests progressing... I can't wait!
 
 Main Topic
 ----------
@@ -24,6 +26,8 @@ Monitoring and Metrics (Alerting too!)
 - Types of metrics
 - What are you monitoring?
 - Do I care that the disk is full?
+  - From a monitoring perspective
+  - From an alerting perspective
 - Alerting
   - AKA being on call
   - etsy tooling
