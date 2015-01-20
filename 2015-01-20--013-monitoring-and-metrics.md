@@ -1,4 +1,4 @@
-Show Notes - #013 - Monitoring and Metrics (Alerting too!) - 12/09/2014
+Show Notes - #013 - Monitoring and Metrics (Alerting too!) - 1/20/2015
 ===========================
 
 Introduction
@@ -13,11 +13,11 @@ Introduction
 
 News
 ----
-*Chris* - Job Change
-*Chris* - So Cal Linux Expo
-*Steve* - Job Change or refocusing
-*Steve* - Test-Kitchen for Windows guests progressing... I can't wait!
-*Steve* - And Penflip
+- *Chris* - Job Change
+- *Chris* - So Cal Linux Expo
+- *Steve* - Job Change or refocusing
+- *Steve* - Test-Kitchen for Windows guests progressing... I can't wait!
+- *Steve* - And Penflip
 
 Main Topic
 ----------
