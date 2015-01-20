@@ -7,7 +7,7 @@ Introduction
 
 *Chris* I'm Chris Webber
 
-*Steve* and I'm Steve Murawski and this show is being recorded on December 09th, 2014
+*Steve* and I'm Steve Murawski and this show is being recorded on January 20th, 2015
 
 *Chris* And this podcast is sponsored by Chef.
 
