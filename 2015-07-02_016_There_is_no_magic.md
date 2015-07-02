@@ -13,7 +13,7 @@ Introduction
 
 News
 ----
-- *Chris* - 
+- *Chris* - New site!
 - *Steve* - I've been spending a lot of time building out supporting tools for Test-Kitchen to make it easier to test cookbooks on Windows.  Slow going, but rewarding.
 - *Steve* - I'm on the board for PowerShell.org now - kind of formalizing my unofficial moderation of the DSC stuff on GitHub
 - *Steve* - Win10 ships at the end of the month, pretty good so far.
