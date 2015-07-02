@@ -1,4 +1,4 @@
-Show Notes - #016 - There Is No Magic) - 07/02/2015
+Show Notes - #016 - There Is No Magic - 07/02/2015
 ===========================
 
 Introduction
